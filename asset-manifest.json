@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/longhua/static/css/main.225d6b16.chunk.css",
-    "main.js": "/longhua/static/js/main.2477203a.chunk.js",
-    "main.js.map": "/longhua/static/js/main.2477203a.chunk.js.map",
+    "main.js": "/longhua/static/js/main.358da383.chunk.js",
+    "main.js.map": "/longhua/static/js/main.358da383.chunk.js.map",
     "runtime-main.js": "/longhua/static/js/runtime-main.cbbbd007.js",
     "runtime-main.js.map": "/longhua/static/js/runtime-main.cbbbd007.js.map",
     "static/js/2.f40ab5c4.chunk.js": "/longhua/static/js/2.f40ab5c4.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cbbbd007.js",
     "static/js/2.f40ab5c4.chunk.js",
     "static/css/main.225d6b16.chunk.css",
-    "static/js/main.2477203a.chunk.js"
+    "static/js/main.358da383.chunk.js"
   ]
 }
