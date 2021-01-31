@@ -1,0 +1,16 @@
+.homepage div {
+  text-align: left;
+  font-size: 25px;
+}
+
+.homepage a {
+  color: darkgoldenrod;
+}
+
+.homepage a:visited {
+  color: brown;
+}
+
+.homepage img {
+  width: 60vw;
+}
