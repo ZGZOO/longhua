@@ -1,6 +1,11 @@
+.homepage h3 {
+  line-height: 2rem;
+}
+
 .homepage div {
   text-align: left;
   font-size: 25px;
+  line-height: 2.8rem;
 }
 
 .homepage a {
