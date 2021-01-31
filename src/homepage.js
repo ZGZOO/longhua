@@ -90,12 +90,14 @@ In the Yuan Dynasty, Shanghai became a county; Longhua belonged to Gaochang Town
 </div>
 
             <br/>
+            <br/>
             <img src="https://res.cloudinary.com/headincloud/image/upload/v1612122516/Screen_Shot_2021-01-31_at_10.11.57_AM_jtj6dk.png"/>
             <h3>The Huang Mu Ancestral Temple now located in the <a href="https://www.trip.com/travel-guide/shanghai/shanghai-botanical-garden-75612/" target="_blank">Shanghai Botanical Garden</a></h3>
 
             <br/>
             <div>Longhua Temple Fair is a traditional market in Longhua Town. According to the third day of the third month of the lunar calendar, vendors and merchants from all walks of life gathered in front of the temple to set up stalls. After a long time, it became a bazaar, commonly known as a temple fair (called “Miao Hui”). For a time, pilgrims, merchants, customers and outing and flower-watchers came one after another, making the sales of small and large shops in the town reach the peak, thus forming Longhua Town’s unique business pattern of "one year depends on three months".</div>
 
+            <br/>
             <br/>
             <img src="https://res.cloudinary.com/headincloud/image/upload/v1612122496/Screen_Shot_2021-01-31_at_10.15.43_AM_w6ahsr.png"/>
             <h3>Scene of Longhua Temple Fair on April 20, 1900 <br/>Image source | University of Bristol-Historical Photographs of China</h3>
