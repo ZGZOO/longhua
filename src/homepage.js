@@ -25,6 +25,7 @@ function Homepage(){
 <br/><br/>Nowadays, it is commonly used to say that during the <a href="https://en.wikipedia.org/wiki/Huang_Chao" target="_blank">Huang Chao Rebellion</a> in the Tang Dynasty, the Longhua Temple and Longhua Pagoda was destroyed in the war. The current Longhua Pagoda was built in the <a href="https://en.wikipedia.org/wiki/Northern_Song_Dynasty" target="_blank">Northern Song Dynasty</a>. In 1066, <a href="https://en.wikipedia.org/wiki/Emperor_Yingzong_of_Song" target="_blank">Song Yingzong</a> gave a title called "Kong Xiang Temple", and Longhua Temple was renamed. In the spring of 1080, a monument to “Kong Xiang Temple” was erected. 
 </div>
             <br/>
+            <br/>
             <img src="https://res.cloudinary.com/headincloud/image/upload/v1612122548/Screen_Shot_2021-01-31_at_9.10.33_AM_tb1o0i.png"/>
             <h5>The existing "Kong Xiang Temple Boundary Stone" in Longhua Temple was originally two pieces, one is the boundary stone of the southeast corner, the other is the boundary stone of the southwest corner, and one of them (the boundary stone of the southwest corner) still exists.</h5>
 
@@ -62,6 +63,7 @@ function Homepage(){
 In the Yuan Dynasty, Shanghai became a county; Longhua belonged to Gaochang Township, Shanghai County. Longhua became a town in the Ming Dynasty. On the morning of May 25, 1949, Longhua Town was liberated. On September 1, 1984, Longhua Town was placed under the <a href="https://en.wikipedia.org/wiki/Xuhui_District" target="_blank">Xuhui District</a> of Shanghai.
 </div>
 
+            <br/>
             <br/>
             <img src="https://res.cloudinary.com/headincloud/image/upload/v1612122557/Screen_Shot_2021-01-31_at_9.46.28_AM_n4zdgi.png"/>
             <h5>In the 17th year of <a href="https://en.wikipedia.org/wiki/Hongzhi_Emperor" target="_blank">Hongzhi</a> in Ming Dynasty (1504), the "Geographical Map of Shanghai County" in "Shanghai Chronicles", there was the label "Longhua Pu"<br/>(“Pu” can mean “big shopping place” here)</h5>
@@ -120,6 +122,7 @@ In the Yuan Dynasty, Shanghai became a county; Longhua belonged to Gaochang Town
             <div>Longhua Town is one of the earliest development areas of modern industry in China. In 1862, the Longhua Gunpowder Factory was established, which later became the Longhua Branch of the Jiangnan Manufacturing Bureau (the predecessor of Longhua Armory), and continued to expand. By the end of the Qing Dynasty, there were more than 500 workshops and nearly 1,000 artisans.</div>
 
             <br/>
+            <br/>
             <img src="https://res.cloudinary.com/headincloud/image/upload/v1612122510/Screen_Shot_2021-01-31_at_10.23.54_AM_ps1vpr.png"/>
             <h5>Longhua Gunpowder Bureau Land Purchase Document</h5>
 
@@ -137,6 +140,7 @@ In the Yuan Dynasty, Shanghai became a county; Longhua belonged to Gaochang Town
             <div>After the liberation of Shanghai in 1949, the industry developed rapidly. By 1984, there were 48 large and small factories with nearly 30,000 employees. The most well-known ones are: Shanghai Aircraft Factory, the 7315 Factory of the Chinese People’s Liberation Army (also known as Shanghai Longhua Machinery Factory, whose predecessor can be traced back to Longhua Gunpowder Factory), Shanghai Cement Factory, Shanghai Xiechang Sewing Machine Factory, Shanghai Radio The 26th Factory, the 17th Shanghai Sweater Factory, the Longhua Roulian Factory, the Shanghai Marble Factory, the Zhonghua Furniture Factory, etc.</div>
 
             <br/>
+            <br/>
             <img src="https://res.cloudinary.com/headincloud/image/upload/v1612122602/Screen_Shot_2021-01-31_at_10.30.28_AM_eukxo9.png"/>
             <h5>In the 1980s, Xiechang Sewing Machine Factory located at 2544 Longhua Road and its main product "Butterfly" sewing machine<br/>(My mom said she used to have lunch in the canteen of this factory when she was young.)</h5>
 
@@ -147,6 +151,7 @@ In the Yuan Dynasty, Shanghai became a county; Longhua belonged to Gaochang Town
             <br/>
             <div>The Shanghai Aircraft Manufacturing Plant, also known as the State-owned No. 5703 Plant, is one of the most important industrial enterprises in the Longhua area and a backbone enterprise in the domestic production of large passenger aircraft. The site is Longhua Airport and maintenance logistics base. <br/><br/>Longhua Airport is the earliest international airport in Shanghai.</div>
 
+            <br/>
             <br/>
             <img src="https://res.cloudinary.com/headincloud/image/upload/v1612122563/Screen_Shot_2021-01-31_at_10.35.50_AM_ucvf6p.png"/>
             <h5>Longhua Airport (looking west) taken in the mid to late 1930s. Due to the wide view, Longhua Pagoda is clearly visible</h5>
@@ -159,6 +164,7 @@ In the Yuan Dynasty, Shanghai became a county; Longhua belonged to Gaochang Town
             <div>Shanghai Cement Factory is located at No. 1 Longshui South Road. In fact, Longshui South Road and Longshui North Road were both formerly known as Longshui Road, which was derived from Shanghai Cement Factory (from Longwu Road to Cement Factory, the typical name of the road). The plant is the earliest cement plant in Shanghai and one of the large domestic cement plants.</div>
 
             <br/>
+            <br/>
             <img src="https://res.cloudinary.com/headincloud/image/upload/v1612122590/Screen_Shot_2021-01-31_at_10.38.41_AM_cstahu.png"/>
             <h5>Early images of Shanghai Cement Plant in the 1920s</h5>
 
@@ -169,6 +175,7 @@ In the Yuan Dynasty, Shanghai became a county; Longhua belonged to Gaochang Town
             <br/>
             <div>The establishment of many factories is not unrelated to Longhua's convenient transportation. In the past, the rivers in the territory were criss-crossed, and now there are Longhua Port, Zhangjiatang Port and Huangpu River crossing. In the past, the transportation was mainly by water. In the Yuan Dynasty, there were post roads for land transportation to Songjiang Fucheng (means “prefectural city”) and Shanghai County. In 1922, Shanghai's earliest airport was built and used in Longhua Town, which formed a rare three-dimensional transportation integrating waterways, highways, railways and aviation in the country nearly a hundred years ago.</div>
 
+            <br/>
             <br/>
             <img src="https://res.cloudinary.com/headincloud/image/upload/v1612122615/Screen_Shot_2021-01-31_at_10.42.25_AM_otfkv9.png"/>
             <h5>Longwu Road Overpass in the 1980s</h5>
@@ -181,6 +188,7 @@ In the Yuan Dynasty, Shanghai became a county; Longhua belonged to Gaochang Town
             <div>The construction of the Longhua Martyrs Cemetery started on May 27, 1994, and the civil works were completed on April 5, 1995. It was opened to the public on July 1, and its memorial hall opened on May 28, 1997. <br/><br/>After renovation and expansion over the years, the Longhua Martyrs Cemetery covers an area of 285 acres, with memorials, tribute, monuments, ruins, martyrs’ tombs, places of worship and underground passages, youth education activities and recreation areas. It has become an important patriotic in Shanghai and even the whole country. Every year, countless Shanghai residents and people from all over the country come here to pay tribute to the heroes and cherish the memory of the traditional education base of ism and revolution.</div>
 
             <br/>
+            <br/>
             <img src="https://res.cloudinary.com/headincloud/image/upload/v1612122628/Screen_Shot_2021-01-31_at_10.45.22_AM_xqbvvm.png"/>
             <h5>Monument to the Martyrs of Longhua</h5>
 
@@ -190,12 +198,14 @@ In the Yuan Dynasty, Shanghai became a county; Longhua belonged to Gaochang Town
             <div>In the 1990s, with the adjustment of industries and the rapid development of urban morphology, the Longhua area also experienced the nirvana of transformation.</div>
 
             <br/>
+            <br/>
             <img src="https://res.cloudinary.com/headincloud/image/upload/v1612122640/Screen_Shot_2021-01-31_at_10.47.38_AM_ffizyo.png"/>
             <h5>Part of the original Shanghai Cement Plant can be seen in the distance of the reconstructed and updated Xuhui Binjiang Longhua Section <br />Photography | Yang Huanmin</h5>
 
             <br/>
             <div>With the implementation of the Xuhui Riverside Development and the comprehensive renovation of Longhua District, the construction and development of Longhua District has increasingly become the focus and highlight of the new round of construction in Xuhui District. The adjustment of the functions of Longhua Airport and the release of land have also created good conditions for a new round of development in the Longhua area.</div>
 
+            <br/>
             <br/>
             <img src="https://res.cloudinary.com/headincloud/image/upload/v1612122641/Screen_Shot_2021-01-31_at_10.49.21_AM_dgjlbk.png"/>
             <h5>On May 18, 2014, the <a href="https://www.trip.com/travel-guide/shanghai/yuz-museum-13384587/" target="_blank">Yu Deyao Museum of Art</a>, which was converted from the original Longhua Airport hangar, was officially opened to the public <br/>Photography | Wang Rongjiang</h5>
