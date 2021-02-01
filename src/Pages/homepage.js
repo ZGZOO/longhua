@@ -1,10 +1,10 @@
 import React from 'react';
 import './homepage.css';
 
-
 function Homepage(){
     return (
-        <div class="homepage">
+        <div className="homepage" id="Intro">
+            
             <br/><br/>
 
             <h1>
@@ -19,7 +19,7 @@ function Homepage(){
 
             <br/>
             <br/>
-            <h2>01-	Originated from <a href="https://en.wikipedia.org/wiki/Three_Kingdoms" target="_blank">the Three Kingdoms</a>, went through rise and fall</h2>
+            <h2 id="Origin">01 - Originated from <a href="https://en.wikipedia.org/wiki/Three_Kingdoms" target="_blank">the Three Kingdoms</a>, went through rise and fall</h2>
             <div>Longhua has a long history and was once one of the famous ancient towns in <a href="https://en.wikipedia.org/wiki/Jiangnan" target="_blank">Jiangnan</a>. The origin of the place name of Longhua in various chronicles and historical documents is said to be named after the Longhua Temple Tower. However, there is no authoritative statement about the creation time of Longhua Temple and Longhua Pagoda. 
 <br/><br/>According to various historical materials, there are three main theories: 1. Both temples and pagodas were created in the Three Kingdoms·<a href="https://en.wikipedia.org/wiki/Eastern_Wu" target="_blank">Wu</a> Chiwu Years; 2. The pagoda was built in the Chiwu Years, and the temple was built in the Tang Dynasty·<a href="https://en.wikipedia.org/wiki/List_of_emperors_of_the_Tang_dynasty" target="_blank">Chuigong</a> Years. 3. Both temples and pagodas were built in the <a href="https://en.wikipedia.org/wiki/Five_Dynasties_and_Ten_Kingdoms_period" target="_blank">Five Dynasties</a> <a href="https://en.wikipedia.org/wiki/Wuyue" target="_blank">Wuyue</a> King “<a href="https://en.wikipedia.org/wiki/Qian_Chu" target="_blank">Qian Chu</a>” Years.
 <br/><br/>Nowadays, it is commonly used to say that during the <a href="https://en.wikipedia.org/wiki/Huang_Chao" target="_blank">Huang Chao Rebellion</a> in the Tang Dynasty, the Longhua Temple and Longhua Pagoda was destroyed in the war. The current Longhua Pagoda was built in the <a href="https://en.wikipedia.org/wiki/Northern_Song_Dynasty" target="_blank">Northern Song Dynasty</a>. In 1066, <a href="https://en.wikipedia.org/wiki/Emperor_Yingzong_of_Song" target="_blank">Song Yingzong</a> gave a title called "Kong Xiang Temple", and Longhua Temple was renamed. In the spring of 1080, a monument to “Kong Xiang Temple” was erected. 
@@ -58,7 +58,7 @@ function Homepage(){
 
             <br/>
             <br/>
-            <h2>02-	Famous town with numerous people and plentiful products</h2>
+            <h2 id="Prosperity">02 - Famous town with numerous people and plentiful products</h2>
             <div>Before the 13th century AD, Longhua belonged to <a href="https://en.wikipedia.org/wiki/Haiyan_County,_Zhejiang" target="_blank">Haiyan County</a> and <a href="https://en.wikipedia.org/wiki/Huating,_Shanghai" target="_blank">Huating County</a> successively. <br/> <br/>
 In the Yuan Dynasty, Shanghai became a county; Longhua belonged to Gaochang Township, Shanghai County. Longhua became a town in the Ming Dynasty. On the morning of May 25, 1949, Longhua Town was liberated. On September 1, 1984, Longhua Town was placed under the <a href="https://en.wikipedia.org/wiki/Xuhui_District" target="_blank">Xuhui District</a> of Shanghai.
 </div>
@@ -120,7 +120,7 @@ In the Yuan Dynasty, Shanghai became a county; Longhua belonged to Gaochang Town
 
             <br/>
             <br/>
-            <h2>03-	Industrial pioneers and heroes forever</h2>
+            <h2 id="Industry">03 - Industrial pioneers and heroes forever</h2>
             <div>Longhua Town is one of the earliest development areas of modern industry in China. In 1862, the Longhua Gunpowder Factory was established, which later became the Longhua Branch of the Jiangnan Manufacturing Bureau (the predecessor of Longhua Armory), and continued to expand. By the end of the Qing Dynasty, there were more than 500 workshops and nearly 1,000 artisans.</div>
 
             <br/>
@@ -196,7 +196,7 @@ In the Yuan Dynasty, Shanghai became a county; Longhua belonged to Gaochang Town
 
             <br/>
             <br/>
-            <h2>04-	Changes and renewal</h2>
+            <h2 id="Changes">04 - Changes and renewal</h2>
             <div>In the 1990s, with the adjustment of industries and the rapid development of urban morphology, the Longhua area also experienced the nirvana of transformation.</div>
 
             <br/>

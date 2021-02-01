@@ -1,0 +1,24 @@
+.burger {
+  font-size: 1.6em;
+  color: black;
+  cursor: pointer;
+  position: fixed;
+  left: 10px;
+  bottom: 10px;
+}
+
+@media only screen and (min-width: 426px) {
+  .burger {
+    font-size: 2.2em;
+    left: 20px;
+    bottom: 20px;
+  }
+}
+
+@media only screen and (min-width: 769px) {
+  .burger {
+    font-size: 3em;
+    left: 30px;
+    bottom: 30px;
+  }
+}

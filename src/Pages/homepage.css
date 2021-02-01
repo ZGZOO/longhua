@@ -1,11 +1,21 @@
+.homepage h1 {
+  font-size: 26px;
+}
+
+.homepage h2 {
+  font-size: 22px;
+  padding-top: 30px;
+}
+
 .homepage h3 {
-  line-height: 2rem;
+  line-height: 1.3rem;
+  font-size: 15px;
 }
 
 .homepage div {
   text-align: left;
-  font-size: 25px;
-  line-height: 2.8rem;
+  font-size: 18px;
+  line-height: 2rem;
 }
 
 .homepage a {
@@ -18,4 +28,30 @@
 
 .homepage img {
   width: 60vw;
+}
+
+@media only screen and (min-width: 769px) {
+  .homepage h1 {
+    font-size: 32px;
+  }
+
+  .homepage h2 {
+    font-size: 26px;
+    line-height: 2rem;
+  }
+
+  .homepage h3 {
+    line-height: 1.5rem;
+    font-size: 18px;
+  }
+
+  .homepage div {
+    text-align: left;
+    font-size: 21px;
+    line-height: 2.2rem;
+  }
+
+  .homepage img {
+    width: 50vw;
+  }
 }
