@@ -14,10 +14,6 @@
   transition: left 0.8s ease;
 }
 
-.hide {
-  left: -70%;
-}
-
 .inner {
   position: relative;
   height: 90vh;
@@ -41,12 +37,17 @@
 .cross {
   width: 80px;
   height: 80px;
-  position: absolute;
-  bottom: 25%;
-  left: 3%;
+  position: fixed;
+  bottom: 2%;
+  left: 2%;
   font-size: 36px;
   cursor: pointer;
   z-index: 2;
+  transition: left 0.8s ease;
+}
+
+.hide {
+  left: -70%;
 }
 
 @media only screen and (min-width: 426px) {
@@ -56,9 +57,12 @@
     padding: 3.5em 0;
   }
   .cross {
-    bottom: 24%;
-    left: 5%;
-    font-size: 44px;
+    font-size: 42px;
+    bottom: 5%;
+    left: 3%;
+  }
+  .hide {
+    left: -70%;
   }
 }
 
@@ -69,8 +73,11 @@
     padding: 2.5em 0;
   }
   .cross {
-    bottom: 24%;
-    left: 5%;
     font-size: 48px;
+    bottom: 6%;
+    left: 4%;
+  }
+  .hide {
+    left: -70%;
   }
 }

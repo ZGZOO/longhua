@@ -19,7 +19,7 @@ function Sidemenu({open, setOpen}){
                     <a href="#Changes" onClick={()=>setOpen(!open)}>04 - Changes</a>
                 </div> 
             </div>
-            <div className="cross" onClick={()=>setOpen(!open)}>
+            <div className={`cross ${hide}`} onClick={()=>setOpen(!open)}>
                     &#10005;
             </div>
         </div>
