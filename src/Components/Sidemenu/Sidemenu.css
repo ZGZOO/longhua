@@ -42,7 +42,7 @@
   width: 80px;
   height: 80px;
   position: absolute;
-  bottom: 20%;
+  bottom: 25%;
   left: 3%;
   font-size: 36px;
   cursor: pointer;
@@ -57,7 +57,7 @@
   }
   .cross {
     bottom: 24%;
-    left: 3%;
+    left: 5%;
     font-size: 44px;
   }
 }
@@ -69,8 +69,8 @@
     padding: 2.5em 0;
   }
   .cross {
-    bottom: 23%;
-    left: 3%;
+    bottom: 24%;
+    left: 5%;
     font-size: 48px;
   }
 }

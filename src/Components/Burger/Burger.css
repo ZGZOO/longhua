@@ -10,15 +10,15 @@
 @media only screen and (min-width: 426px) {
   .burger {
     font-size: 2.2em;
-    left: 20px;
-    bottom: 20px;
+    left: 5%;
+    bottom: 7%;
   }
 }
 
 @media only screen and (min-width: 769px) {
   .burger {
     font-size: 3em;
-    left: 30px;
-    bottom: 30px;
+    left: 5%;
+    bottom: 9%;
   }
 }
