@@ -5,7 +5,7 @@
   left: 0;
   z-index: 1;
   background-color: #e07a5f;
-  font-size: 1.7rem;
+  font-size: 1.3em;
   line-height: 1.9em;
   padding: 3.5em 0;
   display: flex;
@@ -40,7 +40,7 @@
   position: fixed;
   bottom: 2%;
   left: 2%;
-  font-size: 36px;
+  font-size: 25px;
   cursor: pointer;
   z-index: 2;
   transition: left 0.8s ease;
