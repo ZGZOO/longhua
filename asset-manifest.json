@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/longhua/static/css/main.755949cc.chunk.css",
+    "main.css": "/longhua/static/css/main.ca5cb807.chunk.css",
     "main.js": "/longhua/static/js/main.ede8d01a.chunk.js",
     "main.js.map": "/longhua/static/js/main.ede8d01a.chunk.js.map",
     "runtime-main.js": "/longhua/static/js/runtime-main.91c6371e.js",
@@ -10,13 +10,13 @@
     "static/js/3.19e9f8b5.chunk.js": "/longhua/static/js/3.19e9f8b5.chunk.js",
     "static/js/3.19e9f8b5.chunk.js.map": "/longhua/static/js/3.19e9f8b5.chunk.js.map",
     "index.html": "/longhua/index.html",
-    "static/css/main.755949cc.chunk.css.map": "/longhua/static/css/main.755949cc.chunk.css.map",
+    "static/css/main.ca5cb807.chunk.css.map": "/longhua/static/css/main.ca5cb807.chunk.css.map",
     "static/js/2.92fb9a01.chunk.js.LICENSE.txt": "/longhua/static/js/2.92fb9a01.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.91c6371e.js",
     "static/js/2.92fb9a01.chunk.js",
-    "static/css/main.755949cc.chunk.css",
+    "static/css/main.ca5cb807.chunk.css",
     "static/js/main.ede8d01a.chunk.js"
   ]
 }
