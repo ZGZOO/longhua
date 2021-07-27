@@ -1,24 +1,29 @@
 .burger {
-  font-size: 1.6em;
-  color: black;
-  cursor: pointer;
-  position: fixed;
-  left: 10px;
-  bottom: 10px;
+	font-size: 1.6em;
+	color: black;
+	cursor: pointer;
+	position: fixed;
+	left: 10px;
+	bottom: 10px;
+	transition: all 0.5 ease-in;
+}
+
+.burger:hover {
+	transform: scale(1.3);
 }
 
 @media only screen and (min-width: 426px) {
-  .burger {
-    font-size: 2.2em;
-    left: 5%;
-    bottom: 7%;
-  }
+	.burger {
+		font-size: 2.2em;
+		left: 3%;
+		bottom: 5%;
+	}
 }
 
 @media only screen and (min-width: 769px) {
-  .burger {
-    font-size: 3em;
-    left: 5%;
-    bottom: 9%;
-  }
+	.burger {
+		font-size: 3em;
+		left: 5%;
+		bottom: 9%;
+	}
 }
