@@ -1,4 +1,4 @@
-# A web page about the history of my hometown Longhua; 
+# A web page about the history of my hometown Longhua
 
 ### [Click here](https://zgzoo.github.io/longhua/) to check out the live site!
 
