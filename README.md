@@ -14,9 +14,9 @@
 - Pass down cultural education of Longhua to younger generations.
 
 ### Tools used:
-- React
-- React Router (V5)
-- GitHub Pages for deployment
+- [React](https://reactjs.org/)
+- [React Router (V5)](https://v5.reactrouter.com/)
+- [GitHub Pages](https://pages.github.com/) for deployment
 
 
 
